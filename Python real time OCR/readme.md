@@ -13,7 +13,6 @@ TLDR: as an international student I have to admit after a long day of study or w
 - real time process
 
 
-# Demo translate from VietNamese to English
-![image](https://user-images.githubusercontent.com/33323750/167313756-f5a5d24a-0b0c-42af-871d-bd0e850125dc.png)
-![image](https://user-images.githubusercontent.com/33323750/167313819-4a668e01-dead-43df-8af8-84d88b83d855.png)
-![image](https://user-images.githubusercontent.com/33323750/167313847-3420c129-9007-42c1-8306-0b04c6f5732e.png)
+# Demo translate from German to English
+![image](https://user-images.githubusercontent.com/33323750/167314356-e90ad15a-0abe-49b9-8fbb-aa841ad8514c.png)
+![image](https://user-images.githubusercontent.com/33323750/167314404-22005d44-b744-4b1c-b005-72e9a2fc7e46.png)
