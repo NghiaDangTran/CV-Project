@@ -16,3 +16,10 @@ TLDR: as an international student I have to admit after a long day of study or w
 # Demo translate from German to English
 ![image](https://user-images.githubusercontent.com/33323750/167314356-e90ad15a-0abe-49b9-8fbb-aa841ad8514c.png)
 ![image](https://user-images.githubusercontent.com/33323750/167314404-22005d44-b744-4b1c-b005-72e9a2fc7e46.png)
+
+# Update:13rd,May
+- Menu and shortcut implement
+# To do
+- real time process
+- new problem: Google Translator api need time to process need a faster algo 
+![20220513_193337](https://user-images.githubusercontent.com/33323750/168404261-d8916b58-2b10-4090-8349-b83f86025d7f.gif)
